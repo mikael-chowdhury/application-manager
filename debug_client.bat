@@ -1,0 +1,1 @@
+ts-node client/src/index.ts uninstall package

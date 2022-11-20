@@ -1,0 +1,2 @@
+// export const DOWNLOAD_SPEED = 1000000;
+export const DOWNLOAD_SPEED = 100000000;
